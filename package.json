@@ -1,0 +1,16 @@
+{
+  "name": "ranking-rest-api",
+  "version": "1.0.0",
+  "description": "ranking-rest-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Magic#1661",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "noblox.js": "^4.8.6"
+  }
+}
