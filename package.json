@@ -10,7 +10,6 @@
   "author": "Magic#1661",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
     "noblox.js": "^4.8.6"
   }
 }
